@@ -1,4 +1,4 @@
-URL - https://vanamayorov.github.io/Covid-Tracker/
+URL - https://vanamayorov.github.io/covid/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
